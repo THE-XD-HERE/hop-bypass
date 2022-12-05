@@ -1,3 +1,3 @@
 import os
-os.system('chnod 777 h64')
+os.system('chmod 777 h64')
 import bps
